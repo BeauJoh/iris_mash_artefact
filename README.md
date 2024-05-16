@@ -36,7 +36,7 @@ WImage(filename='./64dag.pdf', resolution=100)
 
 
     
-![png](output_2_0.png)
+![png](notebook-exports/output_2_0.png)
     
 
 
@@ -103,7 +103,7 @@ plt.show()
 
 
     
-![png](output_4_1.png)
+![png](notebook-exports/output_4_1.png)
     
 
 
@@ -154,7 +154,7 @@ display(*images)
 
 
     
-![png](output_6_3.png)
+![png](notebook-exports/output_6_3.png)
     
 
 
@@ -164,7 +164,7 @@ display(*images)
 
 
     
-![png](output_6_5.png)
+![png](notebook-exports/output_6_5.png)
     
 
 
@@ -174,7 +174,7 @@ display(*images)
 
 
     
-![png](output_6_7.png)
+![png](notebook-exports/output_6_7.png)
     
 
 
@@ -184,7 +184,7 @@ display(*images)
 
 
     
-![png](output_6_9.png)
+![png](notebook-exports/output_6_9.png)
     
 
 
@@ -194,7 +194,7 @@ display(*images)
 
 
     
-![png](output_6_11.png)
+![png](notebook-exports/output_6_11.png)
     
 
 
@@ -204,7 +204,7 @@ display(*images)
 
 
     
-![png](output_6_13.png)
+![png](notebook-exports/output_6_13.png)
     
 
 
@@ -214,7 +214,7 @@ display(*images)
 
 
     
-![png](output_6_15.png)
+![png](notebook-exports/output_6_15.png)
     
 
 
@@ -224,7 +224,7 @@ display(*images)
 
 
     
-![png](output_6_17.png)
+![png](notebook-exports/output_6_17.png)
     
 
 
@@ -234,7 +234,7 @@ display(*images)
 
 
     
-![png](output_6_19.png)
+![png](notebook-exports/output_6_19.png)
     
 
 
@@ -244,7 +244,7 @@ display(*images)
 
 
     
-![png](output_6_21.png)
+![png](notebook-exports/output_6_21.png)
     
 
 
@@ -254,7 +254,7 @@ display(*images)
 
 
     
-![png](output_6_23.png)
+![png](notebook-exports/output_6_23.png)
     
 
 
@@ -264,7 +264,7 @@ display(*images)
 
 
     
-![png](output_6_25.png)
+![png](notebook-exports/output_6_25.png)
     
 
 
@@ -274,7 +274,7 @@ display(*images)
 
 
     
-![png](output_6_27.png)
+![png](notebook-exports/output_6_27.png)
     
 
 
@@ -284,7 +284,7 @@ display(*images)
 
 
     
-![png](output_6_29.png)
+![png](notebook-exports/output_6_29.png)
     
 
 
